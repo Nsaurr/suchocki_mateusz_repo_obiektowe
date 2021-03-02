@@ -1,6 +1,24 @@
 class TablicaDwuwymiarowa{
     public static void main(String [] args){
-        tablica2x2();
+        tabliczkamnozenia();
+    }
+    
+    private static void tabliczkamnozenia(){
+        int a = 1;
+        int [][] tab10 = new int [10][10];
+        for(int i = 0; i<tab10.length; i++){
+            for(int j = 0; j<tab10[i].length; j++){
+                tab10[i][j] = (i+1)*(j+1);
+            }
+        }
+        for(int i = 0; i<tab10.length; i++){
+            for(int j = 0; j<tab10[i].length; j++){
+                tab10[i][j] = a;
+                System.out.println(tab10[i][j]+"\t");
+                a++;
+            }
+            System.out.println();
+        }
     }
 
     private static void tablica2x2(){
