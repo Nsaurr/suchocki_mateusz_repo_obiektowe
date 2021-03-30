@@ -5,6 +5,8 @@ class MojeDane{
     public String second_name = "";
     public String klasa = "";
     public MojeDane (String name, String second_name, String klasa){
-        System.out.println("Imie: "+name+"\nNazwisko: "+second_name+"\nKlasa: "+klasa+"\n");
+        this.name = name;
+        this.second_name = second_name;
+        this.klasa = klasa;
     }
 }

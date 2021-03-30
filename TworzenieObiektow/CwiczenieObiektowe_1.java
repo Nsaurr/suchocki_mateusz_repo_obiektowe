@@ -1,9 +1,9 @@
 class CwiczenieObiektowe_1{
     public static void main(String [] args){
         MojeDane md = new MojeDane("Mateusz", "Suchocki", "2PTN");
+        System.out.println("Imie: "+md.name+"\nNazwisko: "+md.second_name+"\nKlasa: "+md.klasa+"\n");
         Logowanie lg = new Logowanie();
-        String login = lg.logowanie();
-        System.out.println(login);
+        System.out.println(lg.toString());
         Double k1 = 4.0;
         Double k2 = 20.0;
         Kolo kl = new Kolo(k1);
