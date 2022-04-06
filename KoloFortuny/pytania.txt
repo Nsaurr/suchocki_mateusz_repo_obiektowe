@@ -1,0 +1,190 @@
+Samchody:
+Jaka marke oznacza logo VW?
+1.Volkswagen
+2.Audi
+3.Bmw
+4.Chevrolet
+odp:1
+Z jakiego miasta pochodzi marka Dodge w USA?
+1.Chicago
+2.Detroit
+3.Waszyngton
+4.Los Angeles
+odp:2
+Co odpowiada za wytwarzanie pradu w samochodzie?
+1.Bateria
+2.Kolektor wydechowy
+3.Swieca
+4.Alternator
+odp:4
+Ptaki
+Pospolita w Polsce kaczka krzyżówka ma nogi w kolorze?
+1.czarnym
+2.pomarańczowym
+3.zielonkawym
+4.czerwonym
+odp:2
+Perkozy najchętniej zamieszkują?
+1.brzegi rzek i jezior
+2.parki i lasy
+3.bagna i mokrada
+4.tereny górskie
+odp:1
+Kormoran czarny najchętniej żywi się?
+1.drobnymi ssakami
+2.rakami
+3.nasionami zbóż i owocami
+4.rybami
+odp:4
+Rzeki świata
+Rzeka przepływająca przez Kanadę i Alaskę to?
+1.Missisipi
+2.Kolorado
+3.Jukon
+4.Loara
+Odp:3
+Rzeka z Wodospadami Wiktorii to?
+1.Orinoko
+2.Zambezi
+3.Oranje
+4.Nil
+Odp:2
+Jak nazywa się najdłuższa rzeka Chin?
+1.Jangcy
+2.Mekong
+3.Huang He
+4.Argun
+Odp:1
+Stolice europejskie
+Reykjavík to stolica:
+1.Łotwy
+2.Mołdawii
+3.Islandii
+4.Szwecji
+Odp:3
+Które z tych krajów ma taką samą nazwę stolicy jak państwa?
+1.Monako
+2.San Marino
+3.Watykan
+4.wszystkie odpowiedzi są poprawne
+Odp:4
+Które miasto jest stolicą Rumunii?
+1.Bratysława
+2.Bukareszt
+3.Lublana
+4.Kijów
+Odp:2
+Stany Zjednoczone
+USA składają się z?
+1.46 stanów
+2.48 stanów
+3.50 stanów
+4.52 stanów
+Odp:3
+Dominująca pod względem procentowym w USA religia to?
+1.katolicyzm
+2.hinduizm
+3.protestantyzm
+4.judaizm
+Odp:3
+Które amerykańskie miasto jest największe?
+1.Chicago
+2.Nowy Jork
+3.Filadelfia
+4.Waszyngton
+Odp:2
+Waluty europejskie
+Lej to waluta obowiązująca w:
+1.Rumunii
+2.Bułgarii
+3.Estonii
+4.Finlandii
+Odp:1
+Jadąc na Słowację musimy wymienić złotówki na?
+1.korony słowackie
+2.stotinki
+3.euro
+4.hrywny
+Odp:3
+Jak się nazywa waluta Ukrainy?
+1.Rubel
+2.Hrywna
+3.Lew
+4.Korona
+Odp:2
+Waluty świata
+Sol to nazwa waluty obowiązującej w?
+1.Peru
+2.Meksyku
+3.Brazylii
+4.Wenezuelii
+Odp:1
+Jadąc do Egiptu musimy wymienić złotówki na?
+1.funty egipskie
+2.dinary egipskie
+3.franki egipskie
+4.marki egipskie
+Odp:1
+Państwowy środek płatniczy Wietnamu to?
+1.dolar wietnamski
+2.dong
+3.real
+4.jen
+Odp:2
+Religie świata
+Święta księga islamu to:
+1.Biblia
+2.Wedy
+3.Koran
+4.Adi Granth
+Odp:3
+Jak nazywa się duchowy przywódca w buddyzmie?
+1.Dalajlama
+2.Papież
+3.Ajatollah
+4.Rabin
+Odp:1
+Symbolem chrześcijaństwa nie jest?
+1.Krzyż
+2.Baranek
+3.Gwiazda Dawida
+4.Ichthys
+Odp:3
+Kultowe polskie komedie
+O co toczyli wojnę Kargul z Pawlakiem?
+1.o pieniądze
+2.o kobietę
+3.o miedzę
+4.o parasol
+Odp:4
+Kim na początku kariery był tytułowy bohater filmu "Kariera Nikosia Dyzmy"?
+1.taksówkarzem
+2.piosenkarzem
+3.grabarzem
+4.lakiernikiem
+Odp:3
+Po jakich wodach pływali bohaterowie filmu "Rejs"?
+1.Bałtyku
+2.Sanu
+3.Odry
+4.Wisły
+Odp:4
+Wodospady
+Między którymi dwoma jeziorami znajduje się wodospad Niagara?
+1.Ontario i Erie
+2.Michigan i Huron
+3.Ontario i Michigan
+4.Wielkie Niedźwiedzie i Erie
+Odp:1
+Najwyższy wodospad w Polskich Sudetach to?
+1.Wodospad Kamieńczyka
+2.Wodospad Stańczyka
+3.Wodospad Łomniczki
+4.Wodospad Szklarski
+Odp:1
+Najwyższy wodospad Europy to?
+1.Mardalsfoss
+2.Mongefossen
+3.Vardalsfossen
+4.Kielfossen
+Odp:1
