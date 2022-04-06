@@ -156,7 +156,7 @@ O co toczyli wojnę Kargul z Pawlakiem?
 2.o kobietę
 3.o miedzę
 4.o parasol
-Odp:4
+Odp:3
 Kim na początku kariery był tytułowy bohater filmu "Kariera Nikosia Dyzmy"?
 1.taksówkarzem
 2.piosenkarzem
