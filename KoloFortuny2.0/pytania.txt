@@ -1,0 +1,90 @@
+Jaka marke oznacza logo VW?;Samochody;1.Volkswagen;2.Audi;3.Bmw;4.Chevrolet;1;łatwe
+Z jakiego miasta pochodzi marka Dodge w USA?;Samochody;1.Chicago;2.Detroit;3.Waszyngton;4.Los Angeles;2;średnie
+Co odpowiada za wytwarzanie pradu w samochodzie?;Samochody;1.Bateria;2.Kolektor wydechowy;3.Swieca;4.Alternator;4;trudne
+Pospolita w Polsce kaczka krzyżówka ma nogi w kolorze?;Ptaki;1.czarnym;2.pomarańczowym;3.zielonkawym;4.czerwonym;2;łatwe
+Perkozy najchętniej zamieszkują?;Ptaki;1.brzegi rzek i jezior;2.parki i lasy;3.bagna i mokrada;4.tereny górskie;1;średnie
+Kormoran czarny najchętniej żywi się?;Ptaki;1.drobnymi ssakami;2.rakami;3.nasionami zbóż i owocami;4.rybami;4;trudne
+Rzeka przepływająca przez Kanadę i Alaskę to?;Rzeki świata;1.Missisipi;2.Kolorado;3.Jukon;4.Loara;3;łatwe
+Rzeka z Wodospadami Wiktorii to?;Rzeki świata;1.Orinoko;2.Zambezi;3.Oranje;4.Nil;2;średnie
+Jak nazywa się najdłuższa rzeka Chin?;Rzeki świata;1.Jangcy;2.Mekong;3.Huang He;4.Argun;1;trudne
+Reykjavík to stolica:;Stolice Europejskie;1.Łotwy;2.Mołdawii;3.Islandii;4.Szwecji;3;łatwe
+Które z tych krajów ma taką samą nazwę stolicy jak państwa?;Stolice Europejskie;1.Monako;2.San Marino;3.Watykan;4.wszystkie odpowiedzi są poprawne;4;średnie
+Które miasto jest stolicą Rumunii?;Stolice Europejskie;1.Bratysława;2.Bukareszt;3.Lublana;4.Kijów;2;trudne
+USA składają się z?;Stany Zjednoczone;1.46 stanów;2.48 stanów;3.50 stanów;4.52 stanów;3;łatwe
+Dominująca pod względem procentowym w USA religia to?;Stany Zjednoczone;1.katolicyzm;2.hinduizm;3.protestantyzm;4.judaizm;3;średnie
+Które amerykańskie miasto jest największe?;Stany Zjednoczone;1.Chicago;2.Nowy Jork;3.Filadelfia;4.Waszyngton;2;trudne
+Lej to waluta obowiązująca w:;Waluty Europejskie;1.Rumunii;2.Bułgarii;3.Estonii;4.Finlandii;1;łatwe
+Jadąc na Słowację musimy wymienić złotówki na?;Waluty Europejskie;1.korony słowackie;2.stotinki;3.euro;4.hrywny;3;średnie
+Jak się nazywa waluta Ukrainy?;Waluty Europejskie;1.Rubel;2.Hrywna;3.Lew;4.Korona;2;trudne
+Sol to nazwa waluty obowiązującej w?;Waluty świata;1.Peru;2.Meksyku;3.Brazylii;4.Wenezuelii;1;łatwe
+Jadąc do Egiptu musimy wymienić złotówki na?;Waluty świata;1.funty egipskie;2.dinary egipskie;3.franki egipskie;4.marki egipskie;1;średnie
+Państwowy środek płatniczy Wietnamu to?;Waluty świata;1.dolar wietnamski;2.dong;3.real;4.jen;2;trudne
+Święta księga islamu to:;Religie świata;1.Biblia;2.Wedy;3.Koran;4.Adi Granth;3;łatwe
+Jak nazywa się duchowy przywódca w buddyzmie?;Religie świata;1.Dalajlama;2.Papież;3.Ajatollah;4.Rabin;1;średnie
+Symbolem chrześcijaństwa nie jest?;Religie świata;1.Krzyż;2.Baranek;3.Gwiazda Dawida;4.Ichthys;3;trudne
+O co toczyli wojnę Kargul z Pawlakiem?;Kultowe Polskie komedie;1.o pieniądze;2.o kobietę;3.o miedzę;4.o parasol;3;łatwe
+Kim na początku kariery był tytułowy bohater filmu "Kariera Nikosia Dyzmy"?;Kultowe Polskie komedie;1.taksówkarzem;2.piosenkarzem;3.grabarzem;4.lakiernikiem;3;średnie
+Po jakich wodach pływali bohaterowie filmu "Rejs"?;Kultowe Polskie komedie;Kultowe Polskie komedie;1.Bałtyku;2.Sanu;3.Odry;4.Wisły;4;trudne
+Między którymi dwoma jeziorami znajduje się wodospad Niagara?;Wodospady;1.Ontario i Erie;2.Michigan i Huron;3.Ontario i Michigan;4.Wielkie Niedźwiedzie i Erie;1;łatwe
+Najwyższy wodospad w Polskich Sudetach to?;Wodospady;1.Wodospad Kamieńczyka;2.Wodospad Stańczyka;3.Wodospad Łomniczki;4.Wodospad Szklarski;1;średnie
+Najwyższy wodospad Europy to?;Wodospady;1.Mardalsfoss;2.Mongefossen;3.Vardalsfossen;4.Kielfossen;1;trudne
+Łabędź niemy jest w Polsce?;Ptaki;1.Objęty całkowitą ochroną;2.Częściową ochroną;3.Nie jest objęty ochroną;4.Ptakiem łownym;1;łatwe
+Duży drapieżny ptak o nocnym trybie życia kojarzony ze śmiercią i z tego powodu to niekiedy tępiony to?;Ptaki;1.Głuszec;2.Puchacz;3.Sokół;4.Płomykówka;2;łatwe
+Modraszka,bogatka,czubatka to ptaki z rodziny?;Ptaki;1.Wróblowatych;2.Sikor;3.Pliszkowatych;4.Dudkowatych;2;łatwe
+Upierzenie wilgi zwyczajnej ma kolor?;Ptaki;1.Zielony;2.Błękitny;3.Zółty;4.Różowoczerwony;3;łatwe
+Ten niewielki,pospolity w miastach ptak, podobny do jaskółki i często z nią mylony to?;Ptaki;1.Skowronek;2.Grzywacz;3.Jerzyk;4.Jemiołuszka;3;łatwe
+Jak nazywa się najliczniejsza sowa w Polsce?;Ptaki;1.Puchacz;2.Puszczyk;3.Pójdźka;4.Sóweczka;2;trudne
+Jak nazywa najwyższy współczesny ptak latający?;Ptaki;1.Drop olbrzymi;2.Sęp łysy;3.Żuraw indyjski;4.Koroniec siodłaty;3;trudne
+Najdłuższa rzeka Rosji to?;Rzeki świata;1.Lena;2.Wołga;3.Jenisej;4.Newa;1;trudne
+Jak nazywają się dwie główne rzeki Australii?;Rzeki świata;1.Mackenzie i Fraser;2.Murray i Darling;3.Waikato i Clutha;4.Flinders i Warrego;2;trudne
+Prastara rzeka płynie przez Chiny, Indie i Pakistan, w jej dolinie powstała jedna z najstarszych cywilizacji,jaką nosi nazwę?;Rzeki świata;1.Amu-daria;2.Indus;3.Ganges;4.Kryszna;2;trudne
+Najdłuższa rzeka świata to?;Rzeki świata;1.Nil;2.Amozonka;3.Jangcy;4.Missisipi;2;średnie
+Nil uchodzi do?;Rzeki świata;1.Morza Czarnego;2.Morza Śródziemnego;3.Oceanu Atlantyckiego;4.Morza Martwego;2;łatwe
+Z którą rzeką kojarzone są lasy tropikalne?;Rzeki świata;1.z Kongo;2.z Nilem;3.z Amazonką;4.z Jangcy;3;łatwe
+Najduższa rzeka we Francji to?;Rzeki świata;1.Dunaj;2.Sekwana;3.Rodan;4.Loara;4;łatwe
+Stolicą Szwajcarii jest?;Stolice europejskie;1.Zurych;2.Bazylea;3.Genewa;4.Brno;4;średnie
+Stolicą Malty jest?;Stolice europejskie;1.Rabat;2.Mosta;3.Valetta;4.Sanata Venera;3;średnie
+Które miasto jest stolicą Serbii?;Stolice europejskie;1.Belgrad;2.Skopje;3.Podgorica;4.Sarajewo;1;średnie
+Holandia ma stolicę w mieście?;Stolice europejskie;1.Haga;2.Rotterdam;3.Amsterdam;4.Utrecht;3;średnie
+Stolicą Portugalii jest?;Stolice europejskie;1.Porto;2.Braga;3.Lizbona;4.Portalegle;3;średnie
+Stolica którego z tych krajów ma nazwę inną, niż nazwa państwa?;Stolice europejskie;1.Watykanu;2.San Marino;3.Lichtensteinu;4.Luksemburga;3;łatwe
+Białoruś to kraj ze stolicą w mieście?;Stolice europejskie;1.Mińsk;2.Witebsk;3.Grodno;4.Kazań;1;łatwe
+San Francisco nie kojarzy się?;Stany Zjednoczone;1.Alcatraz;2.Doliną Krzemową;3.Hollywood;4.Golden Gate;3;łatwe
+Manhattan to dzielnica?;Stany Zjednoczone;1.Los Angeles;2.Orlando;3.Miami;4.Nowego Jorku;4;łatwe
+Lee Harvey Oswald został oskarżony o zamordowanie prezydenta?;Stany Zjednoczone;1.Richarda Nixona;2.Jamesa A.Garfielda;3.Abrahama Lincolna;4.Johna Fitzgeralda Kennedyego;4;średnie
+Który z uniwersytetów nie znajduje się w Stanach Zjednoczonych?;Stany Zjednoczone;1.MIT;2.Stanford;3.Oxford;4.Harvard;3;łatwe
+Kongres Stanów Zjednoczonych składa się z?;Stany Zjednoczone;1.Izby Lordów i Izby Gmin;2.Senatu i Izby Lordów;3.Senatu i Izby Reprezentantów;4.Parlamentu i Senatu;3;łatwe
+Który Stan ma granicę lądową z Meksykiem?;Stany Zjednoczone;1.Illionois;2.Montana;3.Teksas;4.Floryda;3;łatwe
+Kto sprawuje władzę wykonawczą w Stanach Zjednoczonych?;Stany Zjednoczone;1.Prezydent;2.Wiceprezydent;3.Kongres;4.Senat;1;łatwe
+Zanim we Włoszech przyjęto euro, podstawową walutą były?;Waluty europejskie;1.Franki;2.Liry;3.Denary;4.Dolary;2;średnie
+Lek – to oficjalna waluta którego z państw?;Waluty europejskie;1.Albanii;2.Bułgarii;3.Mołdawii;4.Chorwacji;1;trudne
+100 stoinek to?;Waluty europejskie;1.1 lewa;2.1 hrywna;3.1 lek;4.1 korona;1;trudne
+Węgierska waluta to?;Waluty europejskie;1.funt;2.frank;3.forint;4.kuna;3;średnie
+Które z państw ma własną walutę, inną niż euro?;Waluty eropejskie;1.Czechy;2.Włochy;3.Cypr;4.Hiszpania;1;średnie
+1 stycznia 2002r. euro zastąpiło w Niemczech?;Waluty europejskie;1.Dolara;2.Franka;3.Koronę;4.Markę;4;łatwe
+Przed wprowadzeniem euro w 2002r. w Finlandii płacono?;Waluty europejskie;1.Guldenem fińskim;2.Frankiem fińskim;3.Koroną fińską;4.Marką fińską;4;trudne
+W którym z wymienionych państw obowiązującą walutą nie jest dolar?;Waluty świata;1.w Meksyku;2.w Kanadzie;3.w Australii;4.na Jamajce;1;średnie
+W którym kraju walutą obowiązującą jest rubel?;Waluty świata;1.w Kazachstanie;2.na Białorusi;3.w Gruzji;4.na Łotwie;2;łatwe
+Czyja podobizna widnieje na banknocie 50 złotowym?;Waluty świata;1.Królowej Jadwigii;2.Władysława Jagiełły;3.Kazimierza Wielkiego;4.Bolesława Śmiałego;3;łatwe
+W Argentynie walutą obowiązującą jest?;Waluty świata;1.funt;2.forint;3.peso;4.dolar;3;łatwe
+W którym kraju walutą obowiązującą jest forint?;Waluty świata;1.w Szwecji;2.w Bułgarii;3.w Danii;4.na Węgrzech;4;łatwe
+Oficjalną walutą którego kraju oprócz USA, jest dolar amerykański?;Waluty świata;1.Ekwadoru;2.Liberii;3.Grenlandii;4.Hondurasu;1;trudne
+Którą walutę określa się międzynarodowym kodem GBP?;Waluty świata;1.funta szterlinga;2.funta szwajcarskiego;3.koronę norweską;4.koronę duńską;1;średnie
+W którym kraju znajduje się wodospad Kalandula?;Wodospady;1.Angolii;2.Peru;3.Boliwii;4.Tajlandi;1;trudne
+Na której rzece położony jest największy pod względem przepływu wodospad Europy?;Wodospady;1.Wołga;2.Dunaj;3.Ren;4.Pad;3;trudne
+Na jakiej granicy leży wodospad Iguazu?;Wodospady;1.argentyńsko-brazylijskiej;2.argentyńsko-boliwijskiej;3.argentyńsko-urugwajskiej;4.argentyńsko-chilijskiej;1;trudne
+Gdzie znajduje się Wodospad Suchy?;Wodospady;1.w USA;2.w Kanadzie;3.w Peru;4.w Chorwacji;1;trudne
+Jak nazywa się najwyższy wodospad Afryki oraz drugi co do wysokości wodospad świata?;Wodospady;1.Wiktorii;2.Stanleya;3.Tugela;4.Tys Ysat;3;trudne
+W którym stanie USA znajduje się Wodospad Wiecznego Płomienia?;Wodospady;1.Waszyngton;2.Kalifornia;3.Nowy York;4.Boston;3;trudne
+Co dosłownie oznacza nazwa Wodospadu Wiktorii tj. Mosi-oa-Tunya?;Wodospady;1.Mgła która grzmi;2.Wśród wysokiej góry;3.Grzmot z niebios;4.Czarna woda gór;1,trudne
+Na którym jeziorze leżą wyspy; Pajęcza, Szeroki Ostrów, Kaczor?;Wyspy;1.Śniardwy;2.Wigry;3.Roś;4.Mamry;1;trudne
+Na jakiej wyspie leży Kopenhaga?;Wyspy;1.Bornholm;2.Olandia;3.Gotlandia;4.Zelandia;4;trudne
+Jak nazywa się największa wyspa na świecie?;Wyspy;1.Nowa Gwinea,2.Borneo;3.Madagaskar;4.Grenlandia;4;łatwe
+Która z tych wysp jest niezależnym państwem?;Wyspy;1.Malta;2.Sycylia;3.Madera;4.Korsyka;1;łatwe
+Która z tych wymienionych wysp jest najmniejsza?;Wyspy;1.Kos;2.Cypr;3.Rodos;4.Kreta;1;średnie
+Do którego kontynentu przynależą Wyspy Owcze?;Wyspy;1.Afryki;2.Azji;3.Europy;4.Ameryki Południowej;3;średnie
+Azory to archipelag dziwięciu wysp wulkanicznych należących do?;Wyspy;1.Hiszpanii;2.Brazylii;3.Argentyny;4.Portugalii;4;średnie
+Jest największym krajem wyspiarskim z ponad trzystoma tysiącami wysp?;Wyspy;1.Filipiny;2.Indonezja;3.Japonia;4.Tajlandia;2;średnie
+Kontynent do którego należy Madagaskar to?;Wyspy;1.Azja;2.Europa;3.Ameryka Południowa,4.Afryka;4;łatwe
+Państwo do którego należy wyspa Wolin to?;Wyspy;1.Niemcy,2.Szwecja.3.Polska,4.Finlandia;3;łatwe
+Grenlandia to największa wyspa świata, jest to terytorium zależne od?;Wyspy;1.Norwegii;2.Szwecji;3.Wielkiej Brytanii;4.Danii;4;trudne
